@@ -1,14 +1,14 @@
-<h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+<h2>Digital Innovation: Expert class - Developing a REST API people management system with Spring Boot</h2>
 
-Construindo um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
+Building a small system for managing people in a company through a REST API, created with Spring Boot.
 
-Para executar o projeto no terminal, digite o seguinte comando:
+To run the project on the terminal, type the following command:
 
 ```shell script
 mvn spring-boot:run 
 ```
 
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+After executing the above command, just open the following address and view the project execution:
 
 ```
 http://localhost:8080/api/v1/people
